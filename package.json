@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MichaelHJNLee/Clearbit-Landing-Page/issues"
   },
-  "homepage": "https://github.com/MichaelHJNLee/Clearbit-Landing-Page#readme"
+  "homepage": "https://github.com/MichaelHJNLee/Clearbit-Landing-Page#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
