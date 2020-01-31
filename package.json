@@ -1,0 +1,19 @@
+{
+  "name": "clearbit-landing-page",
+  "version": "1.0.0",
+  "description": "The objective of this take home is to demonstrate your skills as a web developer, with a focus on code quality, maintainability, and attention to detail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelHJNLee/Clearbit-Landing-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelHJNLee/Clearbit-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/MichaelHJNLee/Clearbit-Landing-Page#readme"
+}
